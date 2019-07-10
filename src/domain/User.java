@@ -1,4 +1,3 @@
-package cn.itcast.jdbc.domain;
 
 import java.util.Date;
 

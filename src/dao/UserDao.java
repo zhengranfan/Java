@@ -1,6 +1,3 @@
-package cn.itcast.jdbc.dao;
-
-import cn.itcast.jdbc.domain.User;
 
 /**
  * 
