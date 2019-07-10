@@ -9,7 +9,7 @@ public class UseDaoImpl  implements UseDao{
 	public void addUser(User user) {
 		// TODO Auto-generated method stub
 		
-	//	Class.forName(className)
+	     ///测试 类
 		
 	}
 
